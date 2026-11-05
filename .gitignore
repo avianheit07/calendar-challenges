@@ -1,0 +1,8 @@
+composer.lock
+storage
+storage/*
+node_modules
+node_modules/*
+vendor
+vendor/*
+.env
